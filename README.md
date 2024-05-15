@@ -19,3 +19,8 @@
 - [ ] Ensure that the dataset complies with data protection laws such as GDPR
 - [x] Clearly define what you want to achieve with your machine learning model
 - [ ] Clean data to remove errors or inconsistencies
+
+### Reference
+Here is a simple footnote[^1].
+
+[^1]: My first reference
