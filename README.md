@@ -36,3 +36,6 @@ Here is a simple footnote[^1].
 
 >[!Tip]
 >Please contact for help if needed
+
+>[!NOTE]
+>User information that users should know.
