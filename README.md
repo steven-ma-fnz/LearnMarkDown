@@ -30,3 +30,6 @@ Here is a simple footnote[^1].
 
 >[!CAUTION]
 >Don't forget to commit your code
+
+>[!IMPORTANT]
+>please follow contribution rules
