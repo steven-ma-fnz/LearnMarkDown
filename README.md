@@ -16,6 +16,6 @@
 - Data sharing and accessibility
 
 ## Designed tasks to be completed
-- [  ] Ensure that the dataset complies with data protection laws such as GDPR
+- [ ] Ensure that the dataset complies with data protection laws such as GDPR
 - [x] Clearly define what you want to achieve with your machine learning model
-- [  ] Clean data to remove errors or inconsistencies
+- [ ] Clean data to remove errors or inconsistencies
