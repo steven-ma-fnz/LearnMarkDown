@@ -32,4 +32,7 @@ Here is a simple footnote[^1].
 >Don't forget to commit your code
 
 >[!IMPORTANT]
->please follow contribution rules
+>Please follow contribution rules
+
+>[!Tip]
+>Please contact for help if needed
