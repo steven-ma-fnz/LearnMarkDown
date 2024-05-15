@@ -15,6 +15,7 @@
 - Compliance with data protection
 - Data sharing and accessibility
 
-- [] Ensure thst the dataset complies with data protection laws such as GDPR
-- [x] Clearly define what you want to achieve with your machine learning model
-- [] Clean data to remove errors or inconsistencies
+## Designed tasks to be completed
+[] Ensure that the dataset complies with data protection laws such as GDPR
+[x] Clearly define what you want to achieve with your machine learning model
+[] Clean data to remove errors or inconsistencies
