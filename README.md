@@ -1,4 +1,4 @@
-![First Github action](https://github.com/steven-ma-fnz/LearnMarkDown/actions/workflows/demo/badge.svg)
+![First Github action](https://github.com/steven-ma-fnz/LearnMarkDown/actions/workflows/demo.yml/badge.svg)
 # Learn MarkDown
 >[!NOTE]
 >[Contribution guidelines for project](docs/CONTRIBUTING.md)
