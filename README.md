@@ -25,7 +25,7 @@ Here is a simple footnote[^1].
 
 [^1]: My first reference
 
->[!WARING]
+>[!Warning]
 >Read documents here carefully
 
 >[!CAUTION]
