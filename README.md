@@ -25,5 +25,8 @@ Here is a simple footnote[^1].
 
 [^1]: My first reference
 
+>[!WARNNIG]
+>Read documents here carefully
+
 >[!CAUTION]
 >Don't forget to commit your code
