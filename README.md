@@ -2,4 +2,19 @@
 >[!NOTE]
 >[Contribution guidelines for project](docs/CONTRIBUTING.md)
 
-## How do we collect data
+## How do we collect medical data for machine learning
+- Define the research objective
+- Ethical approval
+- Data sourcing
+- Patient consent
+- Data anonymization
+- Data collection framework
+- Quilty checks
+- Data pre-processing
+- Dataset creation
+- Compliance with data protection
+- Data sharing and accessibility
+
+- [] Ensure thst the dataset complies with data protection laws such as GDPR
+- [x] Clearly define what you want to achieve with your machine learning model
+- [] Clean data to remove errors or inconsistencies
