@@ -24,3 +24,6 @@
 Here is a simple footnote[^1].
 
 [^1]: My first reference
+
+>[!CAUTION]
+>Don't forget to commit your code
