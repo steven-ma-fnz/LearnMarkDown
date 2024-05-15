@@ -1,5 +1,5 @@
 # Learn MarkDown
 >[!NOTE]
->[Contribution for project](docs/CONTRIBUTING.md)
+>[Contribution guidelines for project](docs/CONTRIBUTING.md)
 
 ## How do we collect data
